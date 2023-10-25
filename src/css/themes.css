@@ -1,0 +1,14 @@
+/* Default theme */
+
+:root {
+  --p1-primary-color: #1163c2;
+  --p1-secondary-color: #e9f1f7;
+  --p2-primary-color: #ffffff;
+  --p2-secondary-color: #0e0d0e;
+  --p2-points: #0e0d0e;
+  --timer-bg-color: #0e0d0d;
+  --timer-text-color: #e9f1f7;
+  --bg-color: #000000;
+  --sidebar-bg-color: #e9f1f7;
+}
+
