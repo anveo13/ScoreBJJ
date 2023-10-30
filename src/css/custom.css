@@ -27,7 +27,7 @@ main {
   position: absolute;
   display: flex;
   align-items: center;
-  width: 870px;
+  width: 850px;
   justify-content: space-between;
 }
 img{
